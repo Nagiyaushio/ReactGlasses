@@ -8,7 +8,7 @@ export class ShowGlasses extends Component {
   };
 
   chooseGlassesType = (color) => {
-    console.log(color);
+    // console.log(color);
 
     switch (color) {
       case "brown":
